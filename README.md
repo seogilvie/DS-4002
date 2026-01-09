@@ -7,11 +7,11 @@
 
 **Office Hours**:
    - **Karsten Siller**:
-        - *Dates and times*: Wednesdays 1:00-3:00 p.m.
-        - *Location*:  Data Science 436
+        - *Dates and times*: Tuesdays 2:00-4:00 p.m.
+        - *Location*:  Data Science Building, Room 436
    - **Cole Whittington**: 
         - *Dates and times*: TBD
-        - *Location*: The Hub, 2nd Floor
+        - *Location*: Data Science Building, The Hub, 2nd Floor
           
 **Subject Area and Catalog Number**: Data Science, DS 4002
 
