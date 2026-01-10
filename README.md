@@ -9,7 +9,7 @@
    - **Javier Rasero**:
         - Dates and Times*: By appointment – over email; By dropping by my office and checking if I am available; Available via email as per need - expect reply within 3 hours (if not odd hours)
         - *Location*:  Data Science 335
-   - ** Ethan Meidinger**: 
+   - **Ethan Meidinger**: 
         - *Dates and times*: TBD
         - *Location*: TBD
           
